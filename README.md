@@ -115,10 +115,9 @@ Soy Ingeniero en Sistemas Computacionales con enfoque en desarrollo web. Me apas
 
 ### 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agusx64&show_icons=true&theme=tokyonight" height="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusx64&layout=compact&theme=tokyonight" height="300" />
-  <img src="https://streak-stats.demolab.com?user=agusx64&theme=tokyonight&hide_border=true" height="300" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=agusx64&show_icons=true&theme=tokyonight" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusx64&layout=compact&theme=tokyonight" height="200" />
 </div>
 
 ---
