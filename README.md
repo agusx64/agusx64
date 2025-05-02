@@ -2,7 +2,7 @@
 <h3 align="center">Ingeniero en Sistemas Computacionales | Desarrollador Web Full Stack Jr.</h3>
 
 <div align="center">
-  <img height="300" src="https://res.cloudinary.com/dohogoidz/image/upload/v1745885438/about_oef8o5.jpg" />
+  <img height="300" src="https://res.cloudinary.com/dohogoidz/image/upload/v1745885438/about_oef8o5.jpg" /> 
 </div>
 
 ---
@@ -66,21 +66,40 @@ Soy Ingeniero en Sistemas Computacionales con enfoque en desarrollo web. Me apas
 
 ### 💼 Experiencia
 
-#### 🐣 Plataforma Web para Avícola Nakú – Prácticas Profesionales (2024)
-- Backend con Node.js, Express.js y MySQL
-- CRUD eficiente para gestión de datos
-- Despliegue en Fly.io
-- Enfoque en estructura escalable y mantenible
+#### 🏃‍♀️ Inventario de fitness, gestión de usuarios y suscripciones.
+- Se diseñó e implemento el backend del sitio web con Node.js, Express.js y MySQL.
+- Se optimizó la gestión de datos y transacciones mediante un CRUD eficiente.
+- Uso de Bootstrap para proporcionar estilos predefinidos.
+- Uso de Cloudinary para el alojamiento de imágenes en la nube.
+- Uso de Railway para el alojamiento de bases de datos en la nube.
 
-#### 🧠 App de recetas con IA – Tesis (2024)
-- Generación de recetas con OpenAI
-- Desarrollo en Node.js, Express, MySQL, EJS y CSS
+#### 🧠 Aplicación web de recetas con Inteligencia Artificial.
+- Desarrollé una aplicación que recomienda recetas según los ingredientes disponibles.
+- Implementé la integración con la API de OpenAI para generar planes de comidas personalizados.
+- Utilicé Node.js, Express.js, EJS, MySQL y CSS para el desarrollo y diseño de la aplicación.
 
-#### 🧾 Aplicación de gestión de membresías – Proyecto personal
-- Backend con Node.js y MySQL
-- Frontend con Bootstrap
-- Alojamiento de imágenes en Cloudinary
-- Base de datos en Railway
+#### 🥚 Desarrollo e implementación de una plataforma web para Avícola Nakú. Proyecto desarrollado en prácticas profesionales como capacitación laboral.
+- Diseño e implementación del backend del sitio web utilizando Node.js, Express.js y MySQL.
+- Optimización de la gestión de datos y transacciones mediante un CRUD eficiente.
+- Implementación de la aplicación en Fly.io para garantizar la disponibilidad y el rendimiento.
+- Este sitio web está disponible en este enlace: naku.fly.dev
+
+#### ⭐ Sitio web oficial de Studio Bloom Digital
+- Página de aterrizaje desarrollada en Figma.
+- Sitio web estático desarrollado con Bootstrap, HTML y CSS.
+- Diseño responsivo y eficiente.
+- Se utilizaron metadatos en las páginas HTML para una mejor indexación en el navegador.
+- El sitio web está alojado en el siguiente dominio: studio-bloom-digital.com
+
+#### 💉Aplicación web móvil para la gestión de pacientes y medicamentos
+- Desarrollé una aplicación web móvil responsiva como proyecto personal.
+- Se desarrolló en la plataforma Node.js en conjunto con Express.js, MySQL, HTML, CSS, Bootstrap 4.3, JavaScript y Apache Cordoba.
+- Integra el motor de visualización EJS para permitir una interacción más dinámica con los datos del servidor mediante solicitudes RESTFul.
+
+#### 📍Programa de consola para buscar empresas mediante la API de Google Maps y Selenium.
+- Programa de consola desarrollado en Python.
+- Para desarrollar este algoritmo se utilizaron Selenium, la API de geolocalización, Beautiful Soup y Pandas.
+- Los datos se almacenan en una base de datos MySQL.
 
 ---
 
