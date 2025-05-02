@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo" />
   </a>
   <a href="https://agustin-mora.fly.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=web&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=chrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
   </a>
 </div>
 
