@@ -128,5 +128,5 @@ Soy Ingeniero en Sistemas Computacionales con enfoque en desarrollo web. Me apas
 > Puedes contactarme por correo, LinkedIn o redes sociales. ¡Estoy disponible para colaborar en proyectos interesantes!
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=agusx64.agusx64&" />
+  <img src="https://profile-counter.glitch.me/agusx64/count.svg?"  />
 </div>
