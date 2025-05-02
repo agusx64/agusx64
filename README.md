@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Agustín Mora Trinidad</h1>
-<h3 align="center">Ingeniero en Sistemas Computacionales | Desarrollador Web Full Stack</h3>
+<h3 align="center">Ingeniero en Sistemas Computacionales | Desarrollador Web Full Stack Jr.</h3>
 
 <div align="center">
   <img height="300" src="https://res.cloudinary.com/dqizoxubr/image/upload/v1737263680/IMG_20241229_182051_s0ro92.jpg" />
