@@ -24,14 +24,6 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agusx64/agusx64/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agusx64/agusx64/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agusx64/agusx64/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ### 📌 Sobre mí
 
 Soy Ingeniero en Sistemas Computacionales con enfoque en desarrollo web. Me apasiona crear soluciones digitales funcionales, automatizadas y con buen diseño. Soy autodidacta, organizado, y disfruto colaborar en proyectos desafiantes que me permitan seguir creciendo como desarrollador.
